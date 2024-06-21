@@ -18,7 +18,7 @@ Prerequisites
     Npm as well
 Install
 
-Now to clone it to your local machine please open your terminal and paste this code git clone git@github.com:cvilla714/weather-app.git
+Now to clone it to your local machine please open your terminal and paste this code git clone git@github.com:Garvit1000/weather-app.git
 
 Then you can go into the directory by typing cd weather-app
 
